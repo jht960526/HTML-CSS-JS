@@ -1,0 +1,10 @@
+div {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+span {
+    font-size: 20px;
+    color: red;
+    text-decoration: underline;
+}
